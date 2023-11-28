@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:moniepointtest/calculate/views/calculate.dart';
+import 'package:moniepointtest/homepage/views/homepagescreen.dart';
 import 'package:moniepointtest/main.dart';
 import 'package:moniepointtest/profile/views/profile.dart';
 import 'package:moniepointtest/theme/palette.dart';

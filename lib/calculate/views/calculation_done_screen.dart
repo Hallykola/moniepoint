@@ -1,5 +1,6 @@
 import 'package:countup/countup.dart';
 import 'package:flutter/material.dart';
+import 'package:moniepointtest/homepage/views/homepagescreen.dart';
 import 'package:moniepointtest/main.dart';
 import 'package:moniepointtest/mywidgets/animatedButton.dart';
 import 'package:moniepointtest/theme/palette.dart';
