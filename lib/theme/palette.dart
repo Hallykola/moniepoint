@@ -62,6 +62,10 @@ class Palette {
 
   static const transparent = Colors.transparent;
 
+  static const black = Colors.black;
+
+  static var appBackground = Color.fromRGBO(123, 80, 231, 1.0) ;
+
   static randomTagColor() {
     Random random = Random();
     var color = tagPalette[random.nextInt(tagPalette.length)];
